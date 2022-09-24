@@ -1,4 +1,4 @@
-# Cisco-like Ping for Ptyohon
+# Cisco-like Ping for Python
 
 ```sh
 $ sudo python3 main.py ping.kooshin.net
